@@ -1,3 +1,5 @@
+//AHMET FARUK ELAS
+
 #include <stdio.h>
 
 int first(int i)
